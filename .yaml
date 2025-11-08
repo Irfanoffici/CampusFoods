@@ -1,0 +1,24 @@
+
+---
+
+#### `.gitignore`
+```gitignore
+# Node
+node_modules/
+.env
+.env.local
+npm-debug.log
+yarn-error.log
+
+# Next.js
+.next/
+out/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
